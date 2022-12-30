@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheSolutionIsDuvi
-- 👀 I’m interested in Formula 1, Football and development.
-- 🌱 I’m currently learning Golang.
+- 👀 I’m interested in Formula 1, Football and IT.
+- 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me : Twitter or E-mail : evan.duvivier@icloud.com
 
 <!---
