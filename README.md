@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ersenzkii
 - 👀 I’m interested in Formula 1, Football and IT.
-- 🌱 I’m currently learning JavaScript.
-- 📫 How to reach me : Twitter or E-mail : solutionisduvi@icloud.com
+- 🌱 I’m currently learning to use CMS.
+- 📫 How to reach me : Twitter or E-mail : evan.duvivier@icloud.com
 
 <!---
 Ersenzkii/Ersenzkii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
