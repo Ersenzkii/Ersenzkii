@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erseeeeen&label=Profile%20views&color=0e75b6&style=flat" alt="erseeeeen" /> </p>
 
-- 🔭 I’m currently working on [CodeQuarry](codequarry.dev)
+- 🔭 I’m currently working on [CodeQuarry](https://codequarry.dev)
 
 - 🌱 I’m currently training on **TailwindCSS**
 
