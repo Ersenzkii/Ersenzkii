@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from France</h3>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/théo-dubois-662407194">
+    <a href="https://www.linkedin.com/in/evan-duvivier">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </div>
