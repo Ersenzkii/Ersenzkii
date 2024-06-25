@@ -28,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erseeeeen&show_icons=true&locale=en&layout=compact" alt="erseeeeen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erseeeeen&show_icons=true&locale=en" alt="erseeeeen" /></p>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7190983282476429312" height="889" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
