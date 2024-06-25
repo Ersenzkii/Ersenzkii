@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [CodeQuarry](codequarry.dev)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently training on **TailwindCSS**
 
 - 📫 How to reach me **evan.duvivier@icloud.com**
 
